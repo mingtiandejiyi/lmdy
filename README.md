@@ -4,3 +4,7 @@
 数据存储使用PWMIS	官网：http://www.pwmis.com/sqlmap/
 			开发者博客：http://www.cnblogs.com/bluedoctor/tag/PDF.NET/
 前端使用LayUI 		官网示例：http://www.layui.com/demo/
+
+
+
+DB目录下为管理员和菜单初始化sql数据文件
